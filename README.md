@@ -9,3 +9,28 @@ I am a Computer Scientist, Who is always eager to learn new stuff. I am currentl
 I am passionate about my work as I love what I do, I have a steady source of motivation that drives me to do my best.This passion led me to challenge myself daily and learn new skills that helped me to do better work. 
 
 
+## Programming Languages:
+
+• Python
+• C++
+• C Sharp
+• C
+• SQL
+• JavaScript
+
+## Framework and Library:
+
+• TensorFlow
+• Pytorch
+• Pandas
+• Numpy
+• Scikit-Learn
+• MatplotLib
+• Seaborn
+• OpenCV
+• PIL
+• Plotly
+• SciPy
+• ASP.Net
+
+
