@@ -11,12 +11,12 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 ## Programming Languages:
 
-• Python
-• C++
-• C Sharp
-• C
-• SQL\n
-• JavaScript
+• Python <br />
+• C++ <br />
+• C Sharp <br />
+• C <br />
+• SQL <br />
+• JavaScript <br />
 
 ## Framework and Library:
 
