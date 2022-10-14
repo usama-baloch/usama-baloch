@@ -1,4 +1,4 @@
-<div align="center">Hi there 👋 <hr/></div>
+# <div align="center">Hi there 👋 It's Usama Baloch <hr/></div>
 
 
 ## About Me:
@@ -33,4 +33,11 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 • SciPy <br />
 • ASP.Net <br />
 
+
+## Kaggle Profile:
+[Kaggle](https://www.kaggle.com/usamabalochhh)
+
+
+## How to Reach Me ?
+[LinkedIn](https://www.linkedin.com/in/usama-baloch-b767bb211/)
 
