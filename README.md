@@ -20,17 +20,17 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 ## Framework and Library:
 
-• TensorFlow
-• Pytorch
-• Pandas
-• Numpy
-• Scikit-Learn
-• MatplotLib
-• Seaborn
-• OpenCV
-• PIL
-• Plotly
-• SciPy
-• ASP.Net
+• TensorFlow <br />
+• Pytorch <br />
+• Pandas <br />
+• Numpy <br />
+• Scikit-Learn <br />
+• MatplotLib <br />
+• Seaborn <br />
+• OpenCV <br />
+• PIL <br />
+• Plotly <br />
+• SciPy <br />
+• ASP.Net <br />
 
 
