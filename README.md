@@ -13,8 +13,8 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 • Python <br />
 • C++ <br />
-• C Sharp <br />
 • C <br />
+• C# <br />
 • SQL <br />
 • JavaScript <br />
 
