@@ -3,7 +3,7 @@
 
 ## About Me:
 
-I'm Usama Baloch, a Undergraduate Student at Fast University and currently a 1x Kaggle Master and 1x Kaggle Expert (Notebooks & Discussion).
+I'm Usama Baloch, an Undergraduate Student at Fast University and currently a Kaggle Master, Interested in the field of Machine Learning, Deep Learning and Data Science.
 
 ## Kaggle Profile:
 [Kaggle](https://www.kaggle.com/usamabalochhh)
