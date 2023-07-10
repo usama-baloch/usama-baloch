@@ -1,4 +1,4 @@
-# <div align="center">Hi there 👋 It's Usama Baloch <hr/></div>
+Started learning ML at the start of 2020, now here.
 
 
 ## How to Reach Me ?
